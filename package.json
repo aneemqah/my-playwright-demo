@@ -1,0 +1,15 @@
+{
+  "name": "my-playwright-demo",
+  "version": "1.0.0",
+  "description": "Playground for exploring and experimenting with Playwright Test — automated browser testing with TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}
